@@ -1,31 +1,39 @@
 ---
 title: "Workshop"
-date: 2024-01-01
+date: 2026-07-08
 weight: 5
 chapter: false
 pre: " <b> 5. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
-# Secure Hybrid Access to S3 using VPC Endpoints
+# Serverless E-commerce Platform
+## Enterprise-scale Online Shopping System Architecture on AWS
 
 #### Overview
 
-**AWS PrivateLink** provides private connectivity to AWS services from VPCs and your on-premises networks, without exposing your traffic to the Public Internet.
+Welcome to the **Serverless E-commerce System** deployment workshop on AWS! This is not just a standard tutorial, but a comprehensive journey that simulates the deployment of an Enterprise-level software system in a real-world environment.
 
-In this lab, you will learn how to create, configure, and test VPC endpoints that enable your workloads to reach AWS services without traversing the Public Internet.
+In this Workshop, we will solve the core challenge: *How do we build an online shopping platform capable of auto-scaling, handling high traffic during Flash Sales, securing payment data, and optimizing infrastructure costs (Pay-as-you-go)?*
 
-You will create two types of endpoints to access Amazon S3: a Gateway VPC endpoint, and an Interface VPC endpoint. These two types of VPC endpoints offer different benefits depending on if you are accessing Amazon S3 from the cloud or your on-premises location
-+ **Gateway** - Create a gateway endpoint to send traffic to Amazon S3 or DynamoDB using private IP addresses.You route traffic from your VPC to the gateway endpoint using route tables.
-+ **Interface** - Create an interface endpoint to send traffic to endpoint services that use a Network Load Balancer to distribute traffic. Traffic destined for the endpoint service is resolved using DNS.
+Through a detailed step-by-step guide, you will manually design and connect over **17 core AWS services** across multiple architectural layers:
+- **Infrastructure Layer**: Build a secure network with Amazon VPC (Public/Private Subnets) and enforce strict access control via AWS IAM.
+- **Database Layer**: Deploy a high-performance NoSQL database using 12 Amazon DynamoDB tables and static storage on S3.
+- **Compute Layer**: Utilize Containerization (Docker) to package the Backend API and operate it on Amazon ECS (Fargate) behind an Application Load Balancer.
+- **Serverless & Event-Driven Layer**: Integrate AWS Lambda, DynamoDB Streams, Amazon SES (email delivery), and ElastiCache Redis (caching) to handle complex background asynchronous tasks.
+- **DevOps & Automation Layer**: Set up a complete CI/CD Pipeline using GitHub Actions for automated building and deployment.
+
+The ultimate goal of this Workshop is to help you master Cloud-native design thinking, become proficient with modern AWS tools, and confidently operate large-scale real-world projects. Let's get started!
+
+
 
 #### Content
 
-1. [Workshop overview](5.1-Workshop-overview)
-2. [Prerequiste](5.2-Prerequiste/)
-3. [Access S3 from VPC](5.3-S3-vpc/)
-4. [Access S3 from On-premises](5.4-S3-onprem/)
-5. [VPC Endpoint Policies (Bonus)](5.5-Policy/)
-6. [Clean up](5.6-Cleanup/)
+1. [Overview](5.1-Overview/)
+2. [Configuring IAM Access](5.2-IAM/)
+3. [DynamoDB & S3 Buckets Initialization](5.3-database-storage/)
+4. [Network & Compute Layer Deployment](5.4-backend-ecs/)
+5. [Serverless & Event-Driven Integration](5.5-serverless/)
+6. [System Monitoring & Caching](5.6-monitoring-caching/)
+7. [Global Content Delivery (CloudFront)](5.7-cloudfront/)
+8. [API Gateway Integration (Upcoming)](#)
+9. [Resource Cleanup](5.9-cleanup/)

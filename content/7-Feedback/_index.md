@@ -6,42 +6,53 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
-
 ### Overall Evaluation
+1. Working Environment
 
-**1. Working Environment**  
-The working environment is very friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+The working environment was very professional, friendly, and welcoming. During my 10 office sessions at the AWS Vietnam office (Bitexco Financial Tower, 26th Floor), I always received support from mentors and team members whenever I encountered difficulties. The office was modern, well-organized, and provided a comfortable atmosphere that helped me stay focused and productive. Overall, I had a very positive experience working in this environment.
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+2. Support from Mentor / Team Admin
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+The mentors were highly supportive and always willing to answer questions, explain concepts in detail, and share their practical experience in cloud computing. They encouraged me to think independently and solve problems on my own while providing guidance whenever necessary. The team admins also managed schedules, documentation, and communication efficiently, ensuring that all interns could participate smoothly in both office sessions and events.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+3. Relevance of the Internship to My Major
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+The internship was closely related to my major in Information Technology, especially in the field of Cloud Computing. It allowed me to apply the theoretical knowledge I had learned at university while gaining hands-on experience with AWS services and cloud technologies that are widely used in the industry.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
+4. Learning Opportunities & Skill Development
 
----
+Throughout the internship, I gained valuable technical and professional skills. I completed numerous AWS hands-on labs, improved my understanding of cloud architecture and cloud services, and strengthened my problem-solving abilities. In addition, attending four technical events provided valuable insights into the latest cloud technologies and industry trends. I also improved my communication, teamwork, and presentation skills by interacting with mentors and fellow interns.
+
+5. Company Culture & Team Spirit
+
+The team culture was positive, collaborative, and respectful. Everyone was willing to share knowledge and support one another regardless of experience level. During both office sessions and events, I felt encouraged to ask questions and participate in discussions. This inclusive atmosphere made me feel like a valued member of the team, even as an intern.
+
+6. Internship Benefits
+
+The internship provided excellent learning opportunities through AWS training sessions, workshops, hands-on labs, and technical events. One of the greatest benefits was the opportunity to experience a professional working environment at the AWS Vietnam office and learn directly from experienced mentors. The knowledge and practical experience I gained throughout the program were extremely valuable for my future career.
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
 
----
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+
+The most satisfying part of my internship was the opportunity to gain hands-on experience with AWS services while learning from experienced mentors. I also enjoyed attending technical events, where I expanded my knowledge of cloud computing, AI, and modern technologies, as well as connected with professionals and other interns.
+
+What do you think the company could improve for future interns?
+
+I believe the program could include more team-based projects or real-world case studies, allowing interns to apply what they have learned in a collaborative environment. Additionally, organizing more career-sharing sessions or technical workshops with AWS engineers would provide even greater value for future interns.
+
+Would you recommend this internship to your friends? Why?
+
+Yes, I would definitely recommend this internship. It provides an excellent opportunity to learn cloud computing through hands-on practice, experience a professional working environment, receive guidance from experienced mentors, and build both technical and soft skills that are valuable for future careers.
+
+### Suggestions & Future Expectations
+
+I would recommend organizing more advanced hands-on labs, team projects, or mini hackathons so interns can apply their knowledge to real-world scenarios. In addition, increasing networking opportunities with AWS professionals would help interns gain more career insights and industry experience.
+
+Would you like to continue participating in this program in the future?
+
+Yes. I would be very interested in continuing with this program or participating in more advanced AWS training programs to further develop my expertise in Cloud Computing, Artificial Intelligence, and AWS technologies.
+
+Additional Comments
+
+I would like to express my sincere appreciation to all the mentors, team admins, and everyone involved in the First Cloud AI Journey program for providing such a valuable learning experience. This internship has helped me strengthen both my technical knowledge and professional skills while giving me a clearer direction for my future career. I hope the program will continue to grow and provide the same valuable opportunities to future students.

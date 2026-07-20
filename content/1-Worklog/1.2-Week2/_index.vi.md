@@ -15,11 +15,11 @@ pre: " <b> 1.2. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------- | ------------ | --------------- | --------------- |
-| 2 | Tìm hiểu Linux cơ bản, SSH, File System | 19/04/2026 | 19/04/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | Thực hành quản lý EC2 bằng Console và CLI | 20/04/2026 | 20/04/2026 | |
-| 4 | Cấu hình Security Group và Key Pair | 21/04/2026 | 21/04/2026 | |
-| 5 | Cài đặt Web Server (Nginx/Apache) trên EC2 | 22/04/2026 | 22/04/2026 | |
-| 6 | Deploy website HTML lên EC2 | 23/04/2026 | 23/04/2026 | |
+| 2 | Tìm hiểu Linux cơ bản, SSH, File System | 26/04/2026 | 26/04/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | Thực hành quản lý EC2 bằng Console và CLI | 27/04/2026 | 27/04/2026 | |
+| 4 | Cấu hình Security Group và Key Pair | 28/04/2026 | 28/04/2026 | |
+| 5 | Cài đặt Web Server (Nginx/Apache) trên EC2 | 29/04/2026 | 29/04/2026 | |
+| 6 | Deploy website HTML lên EC2 | 30/04/2026 | 30/04/2026 | |
 
 ### Kết quả đạt được tuần 2:
 

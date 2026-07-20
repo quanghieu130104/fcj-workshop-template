@@ -5,12 +5,7 @@ weight: 1
 chapter: false
 ---
 
-    
-# Internship Report
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
 ### Student Information:
 &emsp; **Full Name:** Nguyễn Đào Quang Hiếu

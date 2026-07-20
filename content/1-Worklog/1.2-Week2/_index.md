@@ -15,11 +15,11 @@ pre: " <b> 1.2. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference |
 | --- | --- | --- | --- | --- |
-| Mon | Learn basic Linux commands, SSH, and Linux file system | 19/04/2026 | 19/04/2026 | https://cloudjourney.awsstudygroup.com/ |
-| Tue | Practice managing EC2 using AWS Console and AWS CLI | 20/04/2026 | 20/04/2026 | |
-| Wed | Configure Security Groups and Key Pairs | 21/04/2026 | 21/04/2026 | |
-| Thu | Install Nginx/Apache Web Server on EC2 | 22/04/2026 | 22/04/2026 | |
-| Fri | Deploy a simple HTML website on EC2 | 23/04/2026 | 23/04/2026 | |
+| Mon | Learn basic Linux commands, SSH, and Linux file system | 26/04/2026 | 26/04/2026 | https://cloudjourney.awsstudygroup.com/ |
+| Tue | Practice managing EC2 using AWS Console and AWS CLI | 27/04/2026 | 27/04/2026 | |
+| Wed | Configure Security Groups and Key Pairs | 28/04/2026 | 28/04/2026 | |
+| Thu | Install Nginx/Apache Web Server on EC2 | 29/04/2026 | 29/04/2026 | |
+| Fri | Deploy a simple HTML website on EC2 | 30/04/2026 | 30/04/2026 | |
 
 ### Achievements
 

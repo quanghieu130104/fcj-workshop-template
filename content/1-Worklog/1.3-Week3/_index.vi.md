@@ -14,11 +14,11 @@ pre: " <b> 1.3. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
 |---|---|---|---|
-|2|Tìm hiểu Amazon S3|26/04/2026|26/04/2026|
-|3|Bucket Policy, IAM Policy|27/04/2026|27/04/2026|
-|4|Versioning, Lifecycle|28/04/2026|28/04/2026|
-|5|Static Website Hosting|29/04/2026|29/04/2026|
-|6|AWS CLI thao tác với S3|30/04/2026|30/04/2026|
+|2|Tìm hiểu Amazon S3|3/05/2026|3/05/2026|
+|3|Bucket Policy, IAM Policy|4/05/2026|4/05/2026|
+|4|Versioning, Lifecycle|5/05/2026|5/05/2026|
+|5|Static Website Hosting|6/05/2026|6/05/2026|
+|6|AWS CLI thao tác với S3|7/05/2026|7/05/2026|
 
 ### Kết quả
 
